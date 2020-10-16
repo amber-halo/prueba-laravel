@@ -6,6 +6,6 @@
 <body>
 	Este es una prueba
 
-	<script src="..\js\prueba.js"></script>
+	<script src="{{ URL::asset('js/prueba.js') }}"></script>
 </body>
 </html>
